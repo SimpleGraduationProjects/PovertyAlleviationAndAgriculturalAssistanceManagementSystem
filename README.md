@@ -1,0 +1,2 @@
+# PovertyAlleviationAndAgriculturalAssistanceManagementSystem
+扶贫助农管理系统-毕业设计
